@@ -5,18 +5,28 @@ The dashboard uses Pivot Tables, Pivot Charts, Slicers, and Excel formulas to cr
 
 🔹 Key Highlights
 Interactive KPI cards for quick financial insights
+
 Revenue and expense breakdown by category
+
 Department-wise revenue vs. expense comparison
+
 Monthly profit analysis
+
 Dynamic filtering using slicers
+
 Clean and user-friendly dashboard design
 
 🛠️ Tools Used
 Microsoft Excel
+
 Pivot Tables & Pivot Charts
+
 Slicers
+
 Conditional Formatting
+
 Excel Formulas
+
 Data Visualization
 
 This project demonstrates my ability to analyze financial data, build interactive dashboards, and present insights in a clear and visually appealing way, making it relevant for Data Analyst and MIS Executive roles.
